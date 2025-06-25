@@ -1,7 +1,3 @@
-- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-06-25 00:48:34
+- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-06-25 18:45:27
 - 开始执行帐号1
-- 登录成功
-- 已经签到过了，签到获得83M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
+- 设备ID不存在，需要二次设备校验
